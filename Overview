@@ -2,7 +2,9 @@
 # The site is able to add new items to cart, delete items, or make changes.
 # The site can also add new items to sell.
 # All code is safe from SQLI injections. 
+# The site adapts to work on phones, ipads, and computers. 
 # All HTML and CSS is compliant with HTML5 validator.
+
 
 # Room for improvements:
 # I never made a complex login system due to the fact that most of that is already encripted anyway.
