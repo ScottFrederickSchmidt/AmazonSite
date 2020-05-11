@@ -35,10 +35,10 @@ $(document).ready(function() {
 
 <?php
 // https://coderexample.com/datatable-custom-column-search/
- $database ="id8487820_database";
+ $database ="";
 $local = "localhost";
-$username = "id8487820_username";
-$password = "password";
+$username = "";
+$password = "";
 
 // Create connection
 $conn = mysqli_connect($local, $username, $password, $database);
