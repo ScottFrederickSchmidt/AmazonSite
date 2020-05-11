@@ -1,0 +1,20 @@
+# This webpage is designed to look like Amazon.com using Datatables API:  https://datatables-ecom.000webhostapp.com/
+# The webpage runs on Javascript, PHP, SQL, HTML, CSS, AJAX, and J-Query.
+# The site is able to add new items to cart, delete items, or make changes.
+# All code is safe from SQLI injections. 
+# The site adapts to work on phones, ipads, and computers. 
+# All HTML and CSS is compliant with HTML5 validator.
+# The site can also add new items to sell with a second Database. 
+# One of the last updates was making a recommendations section. This could become more powerful with AWS API.
+
+
+# Room for improvements:
+# I never made a complex login system due to the fact that most of that is already encripted anyway.
+# Clearly, I never added a payment system as that would be unethical. My site already accidentaly got taken down by Google because they 
+# thought it was a "scam" site. On a real site, I would use Stripe or Paypall for payment for secruity reasons.
+
+
+# Note: Not all code is within the Github files for security and confidential reasons. 
+# I also soon plan on making a YouTube video showing the site in a more detailed showing.
+
+# If you have any suggestions or questions, email me at scott.schmidt1989@yahoo.com
