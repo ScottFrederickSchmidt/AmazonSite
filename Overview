@@ -5,6 +5,7 @@
 # The site adapts to work on phones, ipads, and computers. 
 # All HTML and CSS is compliant with HTML5 validator.
 # The site can also add new items to sell with a second Database. 
+# The website can reflect new information by updating without having to update the entire webpage.
 # One of the last updates was making a recommendations section. This could become more powerful with AWS API.
 
 
